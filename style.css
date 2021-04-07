@@ -25,7 +25,7 @@
 }
 .journal-wrapper {
     border: 1px solid gainsboro;
-    padding: 50px 50px 20px 50px;
+    padding: 30px 50px 20px 50px;
     border-radius: 20px;
     margin-bottom: 20px;
 }
@@ -52,7 +52,7 @@ ol {
 }
 
 .container-footer {
-    padding: 50px;
+    padding: 25px;
     background-color: rgb(73, 73, 73);
     border-top: 2px solid gainsboro;
 }
