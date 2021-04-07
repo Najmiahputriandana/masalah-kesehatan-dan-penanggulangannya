@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container-navbar {
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.nav-item {
+    margin-right: 0.5rem;
+}
+
+.nav-left-mail, .nav-left-phone {
+    font-size: medium;
+}
+
+.img-kematian-ibu {
+    width: 40rem;
+    height: 40rem;
+}
+.content-journal {
+    margin: 20px 75px 50px 75px;
+}
+.journal-wrapper {
+    border: 1px solid gainsboro;
+    padding: 50px 50px 20px 50px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.journal-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+.journal-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.journal-subtitle {
+    font-weight: bold;
+}
+.journal-intro {
+
+}
+.journal-aki {
+
+}
+.journal-gsi
+ol {
+    padding-left: 65px;
+}
+
+.container-footer {
+    padding: 50px;
+    background-color: lightslategray;
+    border-top: 2px solid gainsboro;
+}
+
