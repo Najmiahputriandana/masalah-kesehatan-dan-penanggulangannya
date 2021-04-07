@@ -12,15 +12,15 @@
 }
 
 .img-kematian-ibu {
-    width: 30%;
-    height: 30%;
+    width: 30vw;
+    height: 30vw;
 }
 .content-journal {
-    margin: 20px 75px 50px 75px;
+    margin: 2vw 5vw 5vw 5vw;
 }
 .journal-wrapper {
     border: 1px solid gainsboro;
-    padding: 30px 50px 20px 50px;
+    padding: 1.5vw 2vw 1vw 2vw;
     border-radius: 20px;
     margin-bottom: 20px;
 }
@@ -43,7 +43,7 @@
 }
 .journal-gsi
 ol {
-    padding-left: 65px;
+    padding-left: 2.5vw;
 }
 
 .container-footer {
