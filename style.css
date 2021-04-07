@@ -12,15 +12,14 @@
 }
 
 .img-kematian-ibu {
-    width: 30vw;
-    height: 30vw;
+    width: 30%;
 }
 .content-journal {
-    margin: 2vw 5vw 5vw 5vw;
+    margin: 2rem 5rem 5rem 5rem;
 }
 .journal-wrapper {
     border: 1px solid gainsboro;
-    padding: 1.5vw 2vw 1vw 2vw;
+    padding: 1.5rem 2rem 1rem 2rem;
     border-radius: 20px;
     margin-bottom: 20px;
 }
@@ -35,20 +34,13 @@
 .journal-subtitle {
     font-weight: bold;
 }
-.journal-intro {
-
-}
-.journal-aki {
-
-}
 .journal-gsi
 ol {
-    padding-left: 2.5vw;
+    padding-left: 2.5rem;
 }
 
-.container-footer {
-    padding: 25px;
-    background-color: rgb(73, 73, 73);
-    border-top: 2px solid gainsboro;
+.container-footer 
+p.lead{
+    color: gray;
 }
 
