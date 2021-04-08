@@ -51,6 +51,13 @@ ol {
     padding-left: 2.5rem;
 }
 
+.footnote {
+    margin: 50px 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    border-bottom: 1px solid gainsboro;
+}
+
 .container-footer 
 p.lead{
     color: gray;
@@ -78,6 +85,10 @@ p.lead{
     .journal-title {
         font-size: medium;
     }
+    .journal-subtitle
+    p {
+        padding: 12.5px;
+    }
     .content-journal {
         margin: 4px;
     }
@@ -92,7 +103,10 @@ p.lead{
     }
     .journal-gsi
     ol {
-        padding-left: 37px;
+        padding-left: 30px;
+    }
+    .footnote {
+        font-size: small;
     }
 
     .container-footer 
