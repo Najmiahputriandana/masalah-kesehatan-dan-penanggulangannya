@@ -1,6 +1,12 @@
+body {
+    background-color: #f8f8f8;
+}
 .container-navbar {
     margin-left: 10rem;
     margin-right: 10rem;
+}
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .nav-item {
@@ -19,19 +25,25 @@
 }
 .journal-wrapper {
     border: 1px solid gainsboro;
-    padding: 1.5rem 2rem 1rem 2rem;
-    border-radius: 20px;
-    margin-bottom: 20px;
+    border-radius: 12.5px;
+    margin-bottom: 25px;
+}
+.journal-subtitle
+p {
+    color: #21272C;
+    font-weight: bold;
+    background-color: gainsboro;
+    padding: 20px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
 }
 .journal-text {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: medium;
+    padding: 0 20px;
 }
 .journal-title {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold;
-}
-.journal-subtitle {
     font-weight: bold;
 }
 .journal-gsi
@@ -48,10 +60,13 @@ p.lead{
     .img-kematian-ibu {
         width: 70%;
     }
+    .navbar-brand, .nav-item {
+        font-size: small;
+    }
     .nav-left-mail, .nav-left-phone {
         display: none;
     }
-    .journal-title, .navbar-brand {
+    .journal-title {
         font-size: medium;
     }
     .content-journal {
