@@ -74,9 +74,8 @@ p.lead{
     }
     .journal-wrapper {
         border: 1px solid gainsboro;
-        padding: 25px 15px 10px 15px;
-        border-radius: 20px;
-        margin-bottom: 20px;
+        border-radius: 12.5px;
+        margin-bottom: 12.5px;
     }
     .journal-text {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
