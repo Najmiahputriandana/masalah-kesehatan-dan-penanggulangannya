@@ -66,6 +66,15 @@ p.lead{
     .nav-left-mail, .nav-left-phone {
         display: none;
     }
+    .navbar-toggler {
+        padding: 0;
+        width: 30px;
+        height: 30px;
+    }
+    .navbar-toggler-icon {
+        width: 15px;
+        height: 25px;
+    }
     .journal-title {
         font-size: medium;
     }
@@ -78,8 +87,8 @@ p.lead{
         margin-bottom: 12.5px;
     }
     .journal-text {
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: small;
+        padding: 0 12px;
     }
     .journal-gsi
     ol {
